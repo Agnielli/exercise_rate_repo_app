@@ -7,7 +7,7 @@ import { Link, useLocation } from "react-router-native";
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: 'red',
+    backgroundColor: theme.appBar.primary,
     flexDirection: "row",
     paddingTop: Constants.statusBarHeight + 10
   },

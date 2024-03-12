@@ -1,5 +1,5 @@
 import React from 'react'
-import { View, StyleSheet } from 'react-native'
+import { View, StyleSheet, Platform } from 'react-native'
 import RepositoryStats from './RepositoryStats'
 import RepositoryItemHeader from './RepositoryItemHeader'
 import theme from '../theme'
